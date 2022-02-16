@@ -1,0 +1,45 @@
+D:\Lost World UO\ServUO-57.1\Scripts\Output\Scripts.CS.dll
+D:\Lost World UO\ServUO-57.1\Scripts\Output\Scripts.CS.pdb
+D:\Lost World UO\ServUO-57.1\Scripts\Output\OrbServerSDK.dll
+D:\Lost World UO\ServUO-57.1\Scripts\Output\ServUO.exe
+D:\Lost World UO\ServUO-57.1\Scripts\Output\Ultima.dll
+D:\Lost World UO\ServUO-57.1\Scripts\Output\UOArchitectInterface.dll
+D:\Lost World UO\ServUO-57.1\Scripts\Output\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Lost World UO\ServUO-57.1\Scripts\Output\ServUO.pdb
+D:\Lost World UO\ServUO-57.1\Scripts\Output\ServUO.exe.config
+D:\Lost World UO\ServUO-57.1\Scripts\Output\Ultima.pdb
+D:\Lost World UO\ServUO-57.1\Scripts\obj\Release\Scripts.csproj.AssemblyReference.cache
+D:\Lost World UO\ServUO-57.1\Scripts\obj\Release\Scripts.csproj.CoreCompileInputs.cache
+D:\Lost World UO\ServUO-57.1\Scripts\obj\Release\Scripts.csproj.CopyComplete
+D:\Lost World UO\ServUO-57.1\Scripts\obj\Release\Scripts.CS.dll
+D:\Lost World UO\ServUO-57.1\Scripts\obj\Release\Scripts.CS.pdb
+D:\ServUO-57.1\ServUO-57.1\Scripts\obj\Release\Scripts.csproj.AssemblyReference.cache
+D:\ServUO-57.1\ServUO-57.1\Scripts\obj\Release\Scripts.csproj.CoreCompileInputs.cache
+D:\ServUO-57.1\ServUO-57.1\Scripts\obj\Release\Scripts.CS.dll
+D:\ServUO-57.1\ServUO-57.1\Scripts\obj\Release\Scripts.CS.pdb
+D:\ServUO-57.1\ServUO-57.1\Scripts\Output\Scripts.CS.dll
+D:\ServUO-57.1\ServUO-57.1\Scripts\Output\Scripts.CS.pdb
+D:\ServUO-57.1\ServUO-57.1\Scripts\Output\OrbServerSDK.dll
+D:\ServUO-57.1\ServUO-57.1\Scripts\Output\ServUO.exe
+D:\ServUO-57.1\ServUO-57.1\Scripts\Output\Ultima.dll
+D:\ServUO-57.1\ServUO-57.1\Scripts\Output\UOArchitectInterface.dll
+D:\ServUO-57.1\ServUO-57.1\Scripts\Output\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ServUO-57.1\ServUO-57.1\Scripts\Output\ServUO.pdb
+D:\ServUO-57.1\ServUO-57.1\Scripts\Output\ServUO.exe.config
+D:\ServUO-57.1\ServUO-57.1\Scripts\Output\Ultima.pdb
+D:\ServUO-57.1\ServUO-57.1\Scripts\obj\Release\Scripts.csproj.CopyComplete
+D:\UO\ServUO-57.1\Scripts\Output\Scripts.CS.dll
+D:\UO\ServUO-57.1\Scripts\Output\Scripts.CS.pdb
+D:\UO\ServUO-57.1\Scripts\Output\OrbServerSDK.dll
+D:\UO\ServUO-57.1\Scripts\Output\ServUO.exe
+D:\UO\ServUO-57.1\Scripts\Output\Ultima.dll
+D:\UO\ServUO-57.1\Scripts\Output\UOArchitectInterface.dll
+D:\UO\ServUO-57.1\Scripts\Output\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\UO\ServUO-57.1\Scripts\Output\ServUO.pdb
+D:\UO\ServUO-57.1\Scripts\Output\ServUO.exe.config
+D:\UO\ServUO-57.1\Scripts\Output\Ultima.pdb
+D:\UO\ServUO-57.1\Scripts\obj\Release\Scripts.csprojAssemblyReference.cache
+D:\UO\ServUO-57.1\Scripts\obj\Release\Scripts.csproj.CoreCompileInputs.cache
+D:\UO\ServUO-57.1\Scripts\obj\Release\Scripts.csproj.CopyComplete
+D:\UO\ServUO-57.1\Scripts\obj\Release\Scripts.CS.dll
+D:\UO\ServUO-57.1\Scripts\obj\Release\Scripts.CS.pdb
